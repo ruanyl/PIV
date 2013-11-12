@@ -1,3 +1,7 @@
+#Note
+	1.I removed the PHP syntax, because i have my own.
+	2.Removed the PHP function name hints
+
 # PHP Integration for VIM
 
 ## Description 
