@@ -94,7 +94,8 @@ vnoremap <silent> <plug>PIVphpAlign :call PhpAlign()<CR>
 "vnoremap <buffer> <leader>d :call PhpDocRange()<CR>
 
 " Map <CTRL>-H to search phpm for the function name currently under the cursor (insert mode only)
-inoremap <buffer> <C-H> <ESC>:!phpm <C-R>=expand("<cword>")<CR><CR>
+"ruanyl comment this line
+"inoremap <buffer> <C-H> <ESC>:!phpm <C-R>=expand("<cword>")<CR><CR>
 
 " }}}
 
